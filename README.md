@@ -1,12 +1,12 @@
-# The Saree Shop | Benarashi Big Bazar
+# Benarashi Big Bazar
 
-![Project Banner](https://via.placeholder.com/1200x400?text=The+Saree+Shop)
+![Project Banner](https://via.placeholder.com/1200x400?text=Benarashi+Big+Bazar)
 
 > A premium e-commerce experience for authentic Benarashi sarees and traditional attire.
 
 ## 📖 About The Project
 
-**The Saree Shop** is a modern, responsive web application designed to showcase and sell exquisite traditional sarees. Built with performance and user experience in mind, it features a sleek interface, smooth animations, and an intuitive navigation system.
+**Benarashi Big Bazar** is a modern, responsive web application designed to showcase and sell exquisite traditional sarees. Built with performance and user experience in mind, it features a sleek interface, smooth animations, and an intuitive navigation system.
 
 Whether you're looking for a bridal Benarashi or a casual cotton saree, this platform provides a seamless shopping journey.
 
@@ -44,12 +44,12 @@ Follow these steps to get a local copy up and running.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/The-Saree-Shop.git
+   git clone https://github.com/Shadhin004/benarashi-big-bazar.git
    ```
 
 2. **Navigate to the project directory**
    ```bash
-   cd The-Saree-Shop
+   cd benarashi-big-bazar
    ```
 
 3. **Install dependencies**
