@@ -52,9 +52,9 @@ const Products = () => {
           </div>
           {/* view all button */}
           <div className="flex justify-center">
-            <button className="text-center mt-10 cursor-pointer bg-primary text-white py-1 px-5 rounded-md">
-              View All Button
-            </button>
+            <Link to="/search" className="text-center mt-10 cursor-pointer bg-primary text-white py-1 px-5 rounded-md">
+              View All
+            </Link>
           </div>
         </div>
       </div>
